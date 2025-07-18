@@ -1,5 +1,7 @@
 # ETL-interna
 
+Explicação do Projeto: https://youtu.be/xSvxwSeeeRU
+
 A Aplicação esta dividida em dois arquivos dentro do arquivo.
 --------------------------------------------------------------------
 	
