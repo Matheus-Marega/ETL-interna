@@ -1,0 +1,14 @@
+streamlit
+pydantic
+pydantic[email]
+sqlalchemy
+python-dotenv
+pymysql 
+pandas 
+numpy
+mysql-connector-python
+streamlit_authenticator
+statsmodels
+plotly
+matplotlib
+pandas
